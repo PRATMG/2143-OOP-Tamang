@@ -23,9 +23,9 @@ int main()
 {
 ofstream ofile;
     ofile.open("test.out");
-    ofile << "Name: Pabitra Bhandari" << endl
-          << "Date: September 10, 2021" << endl
-          << "Fall 2143" << endl
+    ofile << "PRAKASH TAMANG" << endl
+          << "September 10, 2021" << endl
+          << "OOP Fall 2143" << endl
           << endl;
 
         
