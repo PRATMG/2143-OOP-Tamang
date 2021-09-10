@@ -69,11 +69,11 @@ Output is similar to: [v1, v2, v3, ... , vn]
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   |[main.cpp](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/main.cpp) | Main driver of my list program . |
-|   2   | [myvector.hpp](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/myvector.hpp)  | Vector Functionalities of my list program.|
-|   3   | [banner.txt](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/banner.txt) | Banner of the assignment.|
-|   4   | [input.dat](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/input.dat) |  Inuput Data for the program.|
-|   5   |    [test.out](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/test.out) | Output for the user infromation.|
+|   1   |[main.cpp](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/main.cpp) | Main driver of my list program |
+|   2   | [myvector.hpp](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/myvector.hpp)  | Vector functionalities of my list program.|
+|   3   | [banner.txt](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/banner.txt) | Banner page|
+|   4   | [input.dat](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/input.dat) |  Input file|
+|   5   |    [test.out](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/05-P01/test.out) | user information output|
 
 ### Instructions:
 This program does not require any non standard libraries.
