@@ -1,4 +1,3 @@
-
 /*************************************************************************
 *
 *  Author:           prakash Tamang
@@ -144,12 +143,12 @@ class MyVector {
 
     ~MyVector() {
       node* temp = head;
-      node* garbage;
+      node* discard;
 
       while(temp != nullptr) {
-        garbage = temp;
+        discard = temp;
         temp = temp->next;
-        delete garbage;
+        delete discard;
 
       }
     }
@@ -398,12 +397,12 @@ class MyVector {
           num = temp->data;
 
 
-          node* garbage = temp;
+          node* discard = temp;
           node* temp2 = temp->previous;
-          temp = garbage->next;
+          temp = discard->next;
           temp2->next = temp;
           temp->previous = temp2;
-          delete garbage;
+          delete discard;
           
         }
         currentSize--;   //increment in size
@@ -794,11 +793,11 @@ class MyVector {
 
       
       node* temp = head;
-      node* garbage;
+      node* discard;
       while(temp != nullptr) {
-        garbage = temp;
+        discard = temp;
         temp = temp->next;
-        delete garbage;
+        delete discard;
       }
       head = tail = nullptr;
 
