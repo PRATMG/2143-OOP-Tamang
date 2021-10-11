@@ -10,10 +10,10 @@ This is the first part of at least two others for a total of three parts. The ul
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [Banner.txt](https://github.com/PabitraBhandari/2143-OOP-Bhandari/blob/main/Assigments/08-P03A/Banner.txt)         |  Banner for the project    |
-|   2   | [main.cpp](https://github.com/PabitraBhandari/2143-OOP-Bhandari/blob/main/Assigments/08-P03A/main.cpp)  | Main driver of my project part 1        |
-|   3   | [RockPaper.hpp](https://github.com/PabitraBhandari/2143-OOP-Bhandari/blob/main/Assigments/08-P03A/RockPaper.hpp) | Weapons/emojis creation and implementation |
-|   4   | [Output.txt](https://github.com/PabitraBhandari/2143-OOP-Bhandari/blob/main/Assigments/08-P03A/output.txt) | Outcome of the implemented code |
+|   1   | [Banner.txt](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/08-P03A/banner.txt)         |  Banner for project    |
+|   2   | [main.cpp](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/08-P03A/main.cpp)  | Main driver of project part 1        |
+|   3   | [RockPaper.hpp](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/08-P03A/RockPaper.hpp) | Emojis implementation |
+|   4   | [Output.txt](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/08-P03A/output.txt) | Output of the project |
 
 
 ### Instructions:
