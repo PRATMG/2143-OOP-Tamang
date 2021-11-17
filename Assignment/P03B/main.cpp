@@ -8,7 +8,9 @@
 *  Semester:         Fall 2021
 * 
 *  Description:
-*         This program creates the appropriate number of characters based on the input  and proceeds to manage battles between attackers and defenders choosing the appropriate character to fight based on the above rules and projects the winner.
+*         This program creates the appropriate number of characters based on the input 
+and proceeds to manage battles between attackers and defenders choosing the appropriate 
+character to fight based on the above rules and projects the winner.
 *        
 *  Usage: 
 *       - Input file
