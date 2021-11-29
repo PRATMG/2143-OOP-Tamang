@@ -7,11 +7,12 @@ This assignment is to design a UML diagram for students transcript.
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [banner.txt](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/A06/banner.txt) | Banner Page . |
+|   1   | [banner.txt](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/A06/banner.txt) | Banner Page |
  | 2   |  [UmlFile](https://github.com/PRATMG/2143-OOP-Tamang/blob/main/Assignment/A06/A06.pdf)    | Designed File |
+ 
 
 ### Instructions
-
+- inspired from: https://www.youtube.com/embed/UI6lqHOVHic
 - Open the given file.
 
 
